@@ -1,0 +1,58 @@
+/* ============================================== Colors ============================================== */
+
+.bg-gold {
+	background-color: #ffd700;
+}
+
+.bg-orange {
+	background-color: #db9065;
+}
+
+.bg-white {
+	background-color: #ffffff;
+}
+
+.bg-violet {
+	background-color: #493657;
+}
+
+.bg-feldgrau {
+	background-color: #4c5b5c;
+}
+
+/* ============================================== font colors ============================================== */
+
+.font-gold {
+	background-color: #ffd700;
+}
+
+.font-orange {
+	background-color: #db9065;
+}
+
+.font-white {
+	background-color: #ffffff;
+}
+
+.font-violet {
+	background-color: #493657;
+}
+
+.font-feldgrau {
+	background-color: #4c5b5c;
+}
+
+hr {
+	color: #ffd700;
+}
+
+/* ============================================== Navbar ============================================== */
+.navbar-brand {
+	position: relative;
+	background: url(https://res.cloudinary.com/dry7ulzth/image/upload/q_auto/v1762734535/magnaGlow/logo/LogoMagnaGlow_SdnBhd-min_alhpag.webp);
+	width: 240px;
+	height: 56px;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+}
