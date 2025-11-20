@@ -12,8 +12,8 @@
 	background-color: #ffffff;
 }
 
-.bg-violet {
-	background-color: #493657;
+.bg-skyblue {
+	background-color: #123249;
 }
 
 .bg-feldgrau {
@@ -60,11 +60,11 @@ hr {
 /* need to customize for this site. took the code from clinic */
 
 .navBackColor1 {
-	background: #493657;
+	background: #123249;
 }
 
 .navbar-nav > li > .dropdown-menu {
-	background-color: #493657;
+	background-color: #123249;
 }
 
 .dropdown-menu {
