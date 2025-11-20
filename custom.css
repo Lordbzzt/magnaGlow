@@ -23,23 +23,23 @@
 /* ============================================== font colors ============================================== */
 
 .font-gold {
-	background-color: #ffd700;
+	color: #ffd700;
 }
 
 .font-orange {
-	background-color: #db9065;
+	color: #db9065;
 }
 
 .font-white {
-	background-color: #ffffff;
+	color: #ffffff;
 }
 
 .font-violet {
-	background-color: #493657;
+	color: #493657;
 }
 
 .font-feldgrau {
-	background-color: #4c5b5c;
+	color: #4c5b5c;
 }
 
 hr {
