@@ -1,7 +1,7 @@
 /* ============================================== Colors ============================================== */
 
 .bg-gold {
-	background-color: #ffd700;
+	background-color: #efbf04;
 }
 
 .bg-orange {
@@ -23,7 +23,7 @@
 /* ============================================== font colors ============================================== */
 
 .font-gold {
-	color: #ffd700;
+	color: #efbf04;
 }
 
 .font-orange {
@@ -43,7 +43,7 @@
 }
 
 hr {
-	color: #ffd700;
+	color: #efbf04;
 }
 
 /* ============================================== Navbar ============================================== */
@@ -108,7 +108,7 @@ hr {
 }
 
 .linkStyle2 {
-	color: #ffd700;
+	color: #efbf04;
 	text-decoration: none;
 	font-size: 14px;
 	padding: 0.6rem;
@@ -117,7 +117,7 @@ hr {
 
 .linkStyle2:hover {
 	color: #4c5b5c;
-	background-color: #ffd700;
+	background-color: #efbf04;
 	padding: 0.6rem;
 }
 
@@ -132,17 +132,17 @@ hr {
 }
 
 .linkStyleActive {
-	color: #ffd700;
+	color: #efbf04;
 }
 
 .linkStyleActive:hover {
-	color: #ffd700;
+	color: #efbf04;
 }
 
 /* Buttons */
 
 .btn-custom {
-	background-color: #ffd700;
+	background-color: #efbf04;
 	color: #493657;
 	padding: 10px 20px;
 	transition: 0.5s ease-in;
