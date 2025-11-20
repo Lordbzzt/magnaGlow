@@ -47,6 +47,14 @@ hr {
 }
 
 /* ============================================== Navbar ============================================== */
+
+.navbar-toggler-icon {
+	background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='rgba(239, 191, 4)' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+}
+
+.navbar-toggler {
+	border-color: #efbf04;
+}
 .navbar-brand {
 	position: relative;
 	background: url(https://res.cloudinary.com/dry7ulzth/image/upload/q_auto/v1762734535/magnaGlow/logo/LogoMagnaGlow_SdnBhd-min_alhpag.webp);
@@ -56,8 +64,6 @@ hr {
 	background-repeat: no-repeat;
 	background-position: center;
 }
-
-/* need to customize for this site. took the code from clinic */
 
 .navBackColor1 {
 	background: #123249;
@@ -145,4 +151,9 @@ hr {
 }
 .btn-custom:hover {
 	background-color: #db9065;
+}
+
+/* Cards */
+.customBorder {
+	border-color: #efbf04;
 }
